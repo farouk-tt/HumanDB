@@ -5,7 +5,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/humandb.git
+   git clone https://github.com/farouk-tt/humandb.git
    cd humandb
    ```
 
